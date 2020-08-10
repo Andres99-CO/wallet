@@ -8,15 +8,13 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-
-       
+        <link rel="stylesheet" href="css/app.css">
     </head>
     <body>
         <div id="example">
 
         </div>
   
-        <script src="{{ asset('js/app.js') }}"></script>
     </body>
+    <script type="text/javascript" src="js/app.js"></script>
 </html>
